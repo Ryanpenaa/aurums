@@ -1,3 +1,4 @@
+import "../aurum.css";
 import { createFileRoute } from "@tanstack/react-router";
 import { Instagram, MapPin, MessageCircle, ShieldCheck, Sparkles, Gem, Check, ArrowUpRight, CarFront } from "lucide-react";
 
